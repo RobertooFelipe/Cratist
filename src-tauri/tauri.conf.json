@@ -3,7 +3,7 @@
   "build": {
     "beforeBuildCommand": "pnpm build",
     "beforeDevCommand": "pnpm dev",
-    "devPath": "http://localhost:3000",
+    "devPath": "http://localhost:3000/Login",
     "distDir": "../out"
   },
   "package": {
@@ -59,7 +59,7 @@
         "height": 600,
         "resizable": true,
         "title": "Home",
-        "width": 800
+        "width": 1000
       }
     ]
   }
