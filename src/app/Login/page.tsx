@@ -5,7 +5,7 @@ import { GiSwordsEmblem } from 'react-icons/gi'
 export default async function Login() {
   return (
     <>
-      <div className="absolute bottom-2 flex w-full items-center justify-center gap-2 opacity-20">
+      <div className="absolute bottom-2 flex w-full select-none items-center justify-center gap-2 opacity-20">
         <h1 className="text-xl font-semibold text-white">Cratist</h1>
         <GiSwordsEmblem color="#fff" size={30} />
         <p className="text-sm text-white">&copy;Powered by RobertooFelipe</p>
