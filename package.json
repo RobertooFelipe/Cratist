@@ -41,6 +41,8 @@
     "@tauri-apps/cli": "^1.4.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^14.0.0",
+    "@types/jest": "^29.5.3",
+    "@types/testing-library__jest-dom": "^5.14.9",
     "eslint": "8.45.0",
     "eslint-plugin-storybook": "^0.6.13",
     "git-commit-msg-linter": "^5.0.4",
