@@ -18,9 +18,9 @@
         "center": false,
         "close": true,
         "create": false,
-        "hide": false,
-        "maximize": false,
-        "minimize": false,
+        "hide": true,
+        "maximize": true,
+        "minimize": true,
         "print": false,
         "requestUserAttention": false,
         "setAlwaysOnTop": false,
@@ -44,10 +44,10 @@
         "setSize": false,
         "setSkipTaskbar": false,
         "setTitle": false,
-        "show": false,
-        "startDragging": false,
-        "unmaximize": false,
-        "unminimize": false
+        "show": true,
+        "startDragging": true,
+        "unmaximize": true,
+        "unminimize": true
       }
     },
     "bundle": {
@@ -96,7 +96,8 @@
         "height": 600,
         "resizable": true,
         "title": "Home",
-        "width": 1000
+        "width": 1000,
+        "center": true
       }
     ]
   }
